@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+    font-family:  sans-serif;
+    font-weight: 300;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    position: fixed;
+}
+.logo{
+    float: left;
+    padding: 10px;
+}
+
+}
+nav{ 
+    float: right;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+nav a:hover{
+    color: black;
+}
+
+
+
+
