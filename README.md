@@ -1,7 +1,7 @@
 # Shamba-Mkononi-Website
 This website teaches farmers precision farming using GIS Technologies
 # Technologies used:
-* HTML, CSS & Javascript
+* HTML & CSS
 ## License info
 MIT License
 
